@@ -3,7 +3,7 @@
 This repository contains the code for the implementation of the paper titled NeXLink: Node Embedding Framework for Cross-Network Linkages Across Social Networks by Kaushal et al. published at [NetSci-X 2020](https://netscix2020tokyo.github.io/).
 
 ### Dataset
-The raw graph data can be found in `/data` directory.
+The raw graph dataset can be found in `/data/raw` directory.
 
 ### Dependencies
 The project uses Python 3 dependencies explicitly, for processing and training. All the code is run on [JupyterLab ](https://github.com/jupyterlab/jupyterlab) computational environment and [Anaconda](https://anaconda.org/)  is used as a package manager as well as a virtual environment manager. 
