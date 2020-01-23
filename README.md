@@ -23,14 +23,15 @@ $ conda env create -f environment.yml
 If you found this code or our paper useful, please consider citing the following paper:
 ```
 @inproceedings{kaushal2020nexlink,
-    author = {
-        Kaushal, Rishabh and
+    title={NeXLink: Node Embedding Framework for Cross-Network Linkages Across Social Networks},
+    author={
+        Kaushal, Rishabh and 
         Singh, Shubham and 
         Kumaraguru, Ponnurangam
     },
-    title = {{NeXLink: Node Embedding Framework for Cross-Network Linkages Across Social Networks}},
-    booktitle={International Conference and School on Network Science},
-    location = {Tokyo, Japan},
-    year={2020}
+    booktitle={International Conference on Network Science},
+    pages={61--75},
+    year={2020},
+    organization={Springer}
 }
 ```
